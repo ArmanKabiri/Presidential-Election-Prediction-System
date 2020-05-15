@@ -4,4 +4,6 @@ This is a document classifier designed for predicting Iran presidential election
 
 The approach in use is a hybrid-approach fusing machine learning methods with lexicon-based methods. The model is implemented in Java employing Weka and NLTK libraries.
 
+Feel free to check out the project report published on my [personal website](http://armankabiri.com/Resources/Presidential-Election-Prediction-System-Report.pdf)
+
 Contact me to access the raw data.
